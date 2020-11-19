@@ -1,1 +1,1 @@
-# https://adivinhe.py
+# adivinhe.py
