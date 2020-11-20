@@ -10,11 +10,11 @@ while adivinhe != sortear:
     adivinhe = int(input("Digite um número: "))
    
     if adivinhe == sortear:
-          print("\033[0;32mVocê VENCEU!\033[m")
+          print("\n\033[0;32mVocê VENCEU!\033[m")
     else: 
-        if adivinhe > sortear:
-            print("Seu chute foi ALTO")
-        else:
+        if adivinhe < sortear:
             print("Seu chute foi BAIXO")
+        else:
+            print("Seu chute foi ALTO")
 
 print("Jogo finalizado!")
