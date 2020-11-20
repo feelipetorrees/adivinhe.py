@@ -1,3 +1,3 @@
 # adivinhe.py
 
-Jogo de adivinhação simples em Python!
+Jogo de adivinhação  em Python!
